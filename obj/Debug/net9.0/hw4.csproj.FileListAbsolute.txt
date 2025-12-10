@@ -1,0 +1,63 @@
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/obj/Debug/net9.0/hw4.csproj.AssemblyReference.cache
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/obj/Debug/net9.0/hw4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/obj/Debug/net9.0/hw4.AssemblyInfoInputs.cache
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/obj/Debug/net9.0/hw4.AssemblyInfo.cs
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/obj/Debug/net9.0/hw4.csproj.CoreCompileInputs.cache
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/bin/Debug/net9.0/hw4
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/bin/Debug/net9.0/hw4.deps.json
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/bin/Debug/net9.0/hw4.runtimeconfig.json
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/bin/Debug/net9.0/hw4.dll
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/bin/Debug/net9.0/hw4.pdb
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/bin/Debug/net9.0/SixLabors.ImageSharp.dll
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/bin/Debug/net9.0/System.Private.Windows.Core.dll
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/bin/Debug/net9.0/runtimes/win/lib/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/obj/Debug/net9.0/hw4.csproj.Up2Date
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/obj/Debug/net9.0/hw4.dll
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/obj/Debug/net9.0/refint/hw4.dll
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/obj/Debug/net9.0/hw4.pdb
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/obj/Debug/net9.0/hw4.genruntimeconfig.cache
+/Users/charlieratliff/Desktop/Computer Graphics/hw4/obj/Debug/net9.0/ref/hw4.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project/bin/Debug/net9.0/hw4
+/Users/charlieratliff/Desktop/Computer Graphics/final project/bin/Debug/net9.0/hw4.deps.json
+/Users/charlieratliff/Desktop/Computer Graphics/final project/bin/Debug/net9.0/hw4.runtimeconfig.json
+/Users/charlieratliff/Desktop/Computer Graphics/final project/bin/Debug/net9.0/hw4.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project/bin/Debug/net9.0/hw4.pdb
+/Users/charlieratliff/Desktop/Computer Graphics/final project/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project/bin/Debug/net9.0/SixLabors.ImageSharp.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project/bin/Debug/net9.0/System.Private.Windows.Core.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project/bin/Debug/net9.0/runtimes/win/lib/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project/obj/Debug/net9.0/hw4.csproj.AssemblyReference.cache
+/Users/charlieratliff/Desktop/Computer Graphics/final project/obj/Debug/net9.0/hw4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlieratliff/Desktop/Computer Graphics/final project/obj/Debug/net9.0/hw4.AssemblyInfoInputs.cache
+/Users/charlieratliff/Desktop/Computer Graphics/final project/obj/Debug/net9.0/hw4.AssemblyInfo.cs
+/Users/charlieratliff/Desktop/Computer Graphics/final project/obj/Debug/net9.0/hw4.csproj.CoreCompileInputs.cache
+/Users/charlieratliff/Desktop/Computer Graphics/final project/obj/Debug/net9.0/hw4.csproj.Up2Date
+/Users/charlieratliff/Desktop/Computer Graphics/final project/obj/Debug/net9.0/hw4.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project/obj/Debug/net9.0/refint/hw4.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project/obj/Debug/net9.0/hw4.pdb
+/Users/charlieratliff/Desktop/Computer Graphics/final project/obj/Debug/net9.0/hw4.genruntimeconfig.cache
+/Users/charlieratliff/Desktop/Computer Graphics/final project/obj/Debug/net9.0/ref/hw4.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/bin/Debug/net9.0/hw4
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/bin/Debug/net9.0/hw4.deps.json
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/bin/Debug/net9.0/hw4.runtimeconfig.json
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/bin/Debug/net9.0/hw4.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/bin/Debug/net9.0/hw4.pdb
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/bin/Debug/net9.0/SixLabors.ImageSharp.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/bin/Debug/net9.0/System.Private.Windows.Core.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/bin/Debug/net9.0/runtimes/win/lib/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/obj/Debug/net9.0/hw4.csproj.AssemblyReference.cache
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/obj/Debug/net9.0/hw4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/obj/Debug/net9.0/hw4.AssemblyInfoInputs.cache
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/obj/Debug/net9.0/hw4.AssemblyInfo.cs
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/obj/Debug/net9.0/hw4.csproj.CoreCompileInputs.cache
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/obj/Debug/net9.0/hw4.csproj.Up2Date
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/obj/Debug/net9.0/hw4.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/obj/Debug/net9.0/refint/hw4.dll
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/obj/Debug/net9.0/hw4.pdb
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/obj/Debug/net9.0/hw4.genruntimeconfig.cache
+/Users/charlieratliff/Desktop/Computer Graphics/final project smooth/obj/Debug/net9.0/ref/hw4.dll
